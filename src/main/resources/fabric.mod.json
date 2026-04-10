@@ -1,0 +1,29 @@
+{
+	"schemaVersion": 1,
+	"id": "infinite-brute",
+	"version": "${version}",
+	"name": "Infinite Brute",
+	"description": "Rushed mod to bruteforce 20w14infinite dimensions",
+	"authors": [
+		"p1k0chu"
+	],
+	"contact": {
+		"homepage": "https://github.com/p1k0chu/20w14infinite-brute",
+		"sources": "https://github.com/p1k0chu/20w14infinite-brute"
+	},
+	"license": "LGPL-3.0-or-later",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"io.github.p1k0chu.mcmod.infinite_brute.InfiniteMess"
+		]
+	},
+	"mixins": [
+		"infinite_brute.mixins.json"
+	],
+	"depends": {
+		"fabricloader": "*",
+		"minecraft": "1.16-20.w.14",
+		"fabric": "0.5.7+build.2-20w14infinite"
+	}
+}

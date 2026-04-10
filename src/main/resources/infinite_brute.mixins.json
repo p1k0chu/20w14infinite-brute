@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "io.github.p1k0chu.mcmod.infinite_brute.mixin",
+	"compatibilityLevel": "JAVA_8",
+	"mixins": [
+		"BiomeAccessor",
+		"WeighedRandomItemAccessor"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
