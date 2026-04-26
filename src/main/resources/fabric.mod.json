@@ -4,6 +4,7 @@
 	"version": "${version}",
 	"name": "Infinite Brute",
 	"description": "Rushed mod to bruteforce 20w14infinite dimensions",
+    "icon": "assets/infinite-brute/icon.png",
 	"authors": [
 		"p1k0chu"
 	],
