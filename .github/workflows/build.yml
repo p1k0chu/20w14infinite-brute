@@ -1,5 +1,5 @@
 name: build
-on: [pull_request, push, dispatch_workflow]
+on: [pull_request, push, workflow_dispatch]
 
 jobs:
   build:
