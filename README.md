@@ -3,9 +3,6 @@
 Minecraft fabric mod for 20w14infinite, that just adds some helpful
 commands for searching dimensions.
 
-The name of the mod comes from the fact i was just messing with the
-game before i decided to make a mod xp
-
 > [!WARNING]
 > This mod is Work Is (not) in Progress. Its actually slow and hangs sometimes.
 
